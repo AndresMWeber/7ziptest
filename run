@@ -1,0 +1,2 @@
+
+docker run -it --rm --name 7ziptest-running 7ziptest
